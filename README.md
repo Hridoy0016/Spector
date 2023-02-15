@@ -1,15 +1,15 @@
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD">
+<a href="https://github.com/Hridoy0016/Spector">
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
-<h1 align="center"> Atlas MD
+<h1 align="center"> Spector
 </h1>
 
 <p align="center"> 
- Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's possible on WhatsApp with highest features and stability built with Baileys Multi Device support.
+ Konnichiwa Senpai, I am "Spector" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's possible on WhatsApp with highest features and stability built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> Spector - The Future Is Here
 </h4>
 
 <br>
