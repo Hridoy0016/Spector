@@ -10,8 +10,8 @@
 /      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
 /                                                                                   / 
 /-----------------------------------------------------------------------------------/
-/ Author and Main Developer: FantoX                                                 /
-/ Github: https://github.com/FantoX001/Atlas-MD                                     /
+/ Author and Main Developer: Hridoy                                                 /
+/ Github: https://github.com/Hridoy0016/Spector                                      /
 / Powered By: Team ATLAS                                                            /
 /-----------------------------------------------------------------------------------/
 /             Meet Team ATLAS who holds all rights to this repository:              /
