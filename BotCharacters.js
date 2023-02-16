@@ -4,7 +4,7 @@ const { mkchar } = require("./Database/dataschema.js");
 
 /* ---Added Anime Character list---  /
 
-0 --- Atlas MD
+0 --- Spector
 1 --- Power
 2 --- Makima
 3 --- Denji
@@ -21,8 +21,8 @@ Image Source: https://wallpapercave.com/
 
 
 global.charID0 = {
-    botName : "Atlas MD",
-    botVideo : fs.readFileSync("./Assets/atlas.mp4"),
+    botName : "Spector",
+    botVideo : fs.readFileSync("./Assets/Spector.mp4"),
     botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
     botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
     botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
@@ -32,7 +32,7 @@ global.charID0 = {
 }
 
 global.charID1 = {
-  botName : "Power MD",
+  botName : "Power",
   botVideo : fs.readFileSync("./Assets/power.mp4"),
   botImage1 : "https://wallpapercave.com/wp/wp11253614.jpg",
   botImage2 : "https://wallpapercave.com/wp/wp9413488.jpg",
@@ -43,7 +43,7 @@ global.charID1 = {
 }
 
 global.charID2 = {
-  botName : "Makima MD",
+  botName : "Makima",
   botVideo : fs.readFileSync("./Assets/makima.mp4"),
   botImage1 : "https://images5.alphacoders.com/126/1264439.jpg",
   botImage2 : "https://images8.alphacoders.com/122/1227171.jpg",
@@ -54,7 +54,7 @@ global.charID2 = {
 }
 
 global.charID3 = {
-  botName : "Denji MD",
+  botName : "Denji",
   botVideo : fs.readFileSync("./Assets/denji.mp4"),
   botImage1 : "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize=1068%2C601&ssl=1",
   botImage2 : "https://images.alphacoders.com/128/1284967.jpg",
@@ -76,7 +76,7 @@ global.charID4 = {
 }
 
 global.charID5 = {
-  botName : "Chika MD",
+  botName : "Chika",
   botVideo : fs.readFileSync("./Assets/chika.mp4"),
   botImage1 : "https://images4.alphacoders.com/100/1002134.png",
   botImage2 : "https://images4.alphacoders.com/100/1002714.jpg",
@@ -87,7 +87,7 @@ global.charID5 = {
 }
 
 global.charID6 = {
-  botName : "Miku Nakano MD",
+  botName : "Miku Nakano",
   botVideo : fs.readFileSync("./Assets/miku.mp4"),
   botImage1 : "https://wallpapercave.com/wp/wp10524580.jpg",
   botImage2 : "https://wallpapercave.com/wp/wp4828029.jpg",
@@ -98,7 +98,7 @@ global.charID6 = {
 }
 
 global.charID7 = {
-  botName : "Marin Kitagawa MD",
+  botName : "Marin Kitagawa",
   botVideo : fs.readFileSync("./Assets/marin.mp4"),
   botImage1 : "https://images2.alphacoders.com/125/1257915.jpg",
   botImage2 : "https://wallpapercave.com/wp/wp10472356.png",
