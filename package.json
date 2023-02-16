@@ -1,5 +1,5 @@
 {
-  "name": "atlas",
+  "name": "Spector",
   "version": "2.0.0",
   "description": "set",
   "main": "index.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FantoX001/Atlas-MD.git"
+    "url": "git+https://github.com/Hridoy0016/Spector.git"
   },
   "keywords": [
     "bot"
   ],
-  "author": "Fanto001",
+  "author": "Hridoy0016",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FantoX001/Atlas-MD/issues"
+    "url": "https://github.com/Hridoy0016/Spector/issues"
   },
-  "homepage": "https://github.com/FantoX001/Atlas-MD#readme",
+  "homepage": "https://github.com/Hridoy0016/Spector#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
