@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center"> 
- Konnichiwa Senpai, I am "Spector" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's possible on WhatsApp with highest features and stability built with Baileys Multi Device support.
+ Konnichiwa Senpai, I am "Spector" an Opensource WhatsApp bot made by <a href="https://github.com/Hriody0016">Hridoy</a> and his team "Atlas" to do everything that's possible on WhatsApp with highest features and stability built with Baileys Multi Device support.
 
 <h3 align="center"> Spector - The Future Is Here
 </h4>
@@ -15,12 +15,12 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
+  <a href="https://github.com/Hridoy0016/Spector/fork">
+    <img src="https://img.shields.io/github/forks/Hridoy0016/Spector?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
+  <a href="https://github.com/Hridoy0016/Spector/stargazers">
+    <img src="https://img.shields.io/github/stars/Hridoy001/Spector?style=social">
   </a>
 
 <br>
