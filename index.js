@@ -165,8 +165,8 @@ async function startMiku() {
         whitespaceBreak: true
     }), 'yellow'))
 
-    console.log(color('\nHello, I am Fantox, the main developer of this bot.\n\nThanks for using: Atlas MD made by my Team Atlas.', 'aqua'))
-    console.log(color('\nYou can follow me on GitHub: FantoX001\n\n', 'aqua'))
+    console.log(color('\nHello, I am Hridoy, the main developer of this bot.\n\nThanks for using: Spector made by Hridoy.', 'aqua'))
+    console.log(color('\nYou can follow me on GitHub: Hridoy0016\n\n', 'aqua'))
 
 
 
@@ -180,7 +180,7 @@ async function startMiku() {
             level: 'silent'
         }),
         printQRInTerminal: true,
-        browser: ['Atlas MD', 'Safari', '1.0.0'],
+        browser: ['Spector', 'Safari', '1.0.0'],
         auth: state,
         version
     })
@@ -199,7 +199,7 @@ async function startMiku() {
         } = update
         status = connection;
         if (connection) {
-            await console.info(`Atlas MD Server Status => ${connection}`);
+            await console.info(`Spector Server Status => ${connection}`);
           }
 
         if (connection === 'close') {
