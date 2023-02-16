@@ -66,8 +66,8 @@ async function startMiku() {
         whitespaceBreak: true
     }), 'yellow'))
 
-    console.log(color('\nHello, I am Fantox, the main developer of this bot.\n\nThanks for using: Miku Bot', 'aqua'))
-    console.log(color('\nYou can follow me on GitHub: FantoX001', 'aqua'))
+    console.log(color('\nHello, I am Hridoy, the main developer of this bot.\n\nThanks for using: Spector Bot', 'aqua'))
+    console.log(color('\nYou can follow me on GitHub: Hridoy0016', 'aqua'))
 
 
 
